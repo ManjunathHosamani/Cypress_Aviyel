@@ -1,0 +1,13 @@
+{
+  "chromeWebSecurity": false,
+  "projectId": "a1fbpz",
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "files": "cypress/reports",
+    "overwrite": false,
+    "html": true,
+    "json": true,
+    "charts": true
+  },
+  "video": false
+}
